@@ -15,6 +15,7 @@ Necessary Equipment:
 1 BNC to Banana Cable Converter,
 3 null modem adapters,
 1 Computer with LabVIEW 2019 or LabVIEW 2018
+1 Computer with Mathematica 12
 
 Steps to Follow:
 
