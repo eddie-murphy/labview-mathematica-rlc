@@ -1,5 +1,5 @@
 # labview-mathematica-rlc
-LabVIEW 2019 program that solves for the values of each component in a physical Resistor, Inductor, and Capacitor (RLC) circuit by analyzing the frequency response of the circuit.
+LabVIEW 2018/2019 program that solves for the values of each component in a physical Resistor, Inductor, and Capacitor (RLC) circuit by analyzing the frequency response of the circuit.
 Calls on Mathematica using wolfram script to perform Nonlinear model fitting.
 Included is the main program vi, along with all the other sub vi's. Programs contain comments for understanding. 
 
@@ -14,7 +14,7 @@ Necessary Equipment:
 3 serial cables,
 1 BNC to Banana Cable Converter,
 3 null modem adapters,
-1 Computer with LabVIEW 2019
+1 Computer with LabVIEW 2019 or LabVIEW 2018
 
 Steps to Follow:
 
