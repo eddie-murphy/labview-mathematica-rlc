@@ -15,3 +15,26 @@ Necessary Equipment:
 1 BNC to Banana Cable Converter,
 3 null modem adapters,
 1 Computer with LabVIEW 2019
+
+Steps to Follow: 
+Step 1: Choose Capacitor Value:
+
+Capacitor Range: (2.7 ≤ C ≤ 1,000) x 10^(-9)  F
+
+Step 2: Choose Inductor Value: 
+
+Inductor Range: (0.027 ≤ L ≤10)  H
+
+Step 3: Choose Resistor Value:
+
+If L ≤ 0.16 H : 
+
+Then (1 < R < 3000)  Ω
+
+If (0.16 < L ≤5) H : 
+
+Then R > 3000 Ω
+
+If L > 5 H : 
+
+Then R > 6000 Ω
