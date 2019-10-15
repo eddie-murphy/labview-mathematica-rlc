@@ -16,7 +16,8 @@ Necessary Equipment:
 3 null modem adapters,
 1 Computer with LabVIEW 2019
 
-Steps to Follow: 
+Steps to Follow:
+
 Step 1: Choose Capacitor Value:
 
 Capacitor Range: (2.7 ≤ C ≤ 1,000) x 10^(-9)  F
