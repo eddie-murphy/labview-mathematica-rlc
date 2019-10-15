@@ -2,6 +2,7 @@
 LabVIEW 2019 program that solves for the values of each component in a physical Resistor, Inductor, and Capacitor (RLC) circuit by analyzing the frequency response of the circuit.
 Calls on Mathematica using wolfram script to perform Nonlinear model fitting.
 Included is the main program vi, along with all the other sub vi's. 
+
 Necessary Equipment: 
 1 Function Waveform Generator (Agilent 33120A), 
 2 Digital Multimeters (Agilent 34401A),
