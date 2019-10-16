@@ -17,7 +17,7 @@
 * 1 Computer with LabVIEW 2019 or LabVIEW 2018
 * 1 Computer with Mathematica 12
 
-## Drawing of Setup (also looked in root directory as *setup.png*)
+## Drawing of Setup (also located in root directory as *setup.png*)
 ![setup](https://github.com/eddie-murphy/labview-mathematica-rlc-circuit-solver/blob/master/setup.png)
 
 ## Steps to Follow Once you have the Equipment Set Up:
