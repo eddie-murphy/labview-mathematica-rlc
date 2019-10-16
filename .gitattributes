@@ -1,2 +1,1 @@
-* linguist-vendored
-*.vip linguist-vendored=false
+*.vi linguist-language=labVIEW
