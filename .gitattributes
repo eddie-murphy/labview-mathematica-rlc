@@ -1,2 +1,2 @@
 * linguist-vendored
-*.g linguist-vendored=false
+*.lvproj linguist-vendored=false
