@@ -1,6 +1,6 @@
 # labview-mathematica-rlc
 ## LabVIEW 2018/2019 program that solves for the values of each component in a physical Resistor, Inductor, and Capacitor (RLC) circuit by analyzing the frequency response of the circuit.
-* Calls on Mathematica using wolfram script to perform Nonlinear model fitting.
+* Calls on Mathematica using wolfram script to perform Nonlinear regression.
 * Included is the main program vi, along with all the other sub vi's. Programs contain comments for understanding. 
 
 ## Necessary Equipment: 
