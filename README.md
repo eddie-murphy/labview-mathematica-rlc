@@ -18,7 +18,7 @@
 * 1 Computer with Mathematica 12
 
 ## Drawing of Setup (also looked in root directory as *setup.png*)
-
+![setup](https://github.com/eddie-murphy/labview-mathematica-rlc-circuit-solver/blob/master/setup.png)
 
 ## Steps to Follow Once you have the Equipment Set Up:
 
