@@ -17,6 +17,9 @@
 * 1 Computer with LabVIEW 2019 or LabVIEW 2018
 * 1 Computer with Mathematica 12
 
+## Drawing of Setup (also looked in root directory as *setup.png*)
+
+
 ## Steps to Follow Once you have the Equipment Set Up:
 
 1: Choose Capacitor Value:
