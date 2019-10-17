@@ -21,6 +21,7 @@
 ![setup](https://github.com/eddie-murphy/labview-mathematica-rlc-circuit-solver/blob/master/setup.png)
 
 ## Steps to Follow Once you have the Equipment Set Up:
+I have created this ranges, because with certain configurations the frequency response is either too wide or too peaked to perform timely analysis on. 
 
 1: Choose Capacitor Value:
 
