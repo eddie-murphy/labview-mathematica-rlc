@@ -1,7 +1,7 @@
 # labview-mathematica-rlc
 ## LabVIEW 2018/2019 program that solves for the values of each component in a physical Resistor, Inductor, and Capacitor (RLC) circuit by analyzing the frequency response of the circuit.
 * Each Call to Mathematica is done by programmatically creating a batch file (that overwrites the previous batch file, unless a new name is specified) that calls on a wolfram script. The wolfram script performs non-linear regression on data saved as a .csv by the labview program. The wolfram script outputs the results in a .csv that is then read back in by labVIEW.
- * This implementation was designed to run on Windows 10, however, I imagine a similar work around could be created for macOS. 
+  * This implementation (and therefore this program) was designed to run on Windows 10, however, I imagine a similar work around could be created for macOS. 
 * Included is the main program vi, along with all the other sub vi's. Programs contain comments for understanding. 
 
 ## Necessary Equipment: 
